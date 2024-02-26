@@ -1,2 +1,2 @@
-# Engeto---product-card
-Product card 
+# Engeto-product-card
+Engeto - druhý nepovinný úkol
